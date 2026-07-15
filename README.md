@@ -118,17 +118,7 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
 
-Add application screenshots here:
-
-Example:
-
-```markdown
-![AI Content Engine Screenshot](images/demo.png)
-```
-
----
 
 # 🎯 Future Enhancements
 
